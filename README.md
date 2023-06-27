@@ -29,4 +29,4 @@ This configuration is the standard configuration for the VEX Clawbots. Most of y
 
 Note that the buttons and range finders are not required for the program to function. The buttons act as emergency stop buttons and the range finder does nothing.
 
-Also, if you would like to change the velocity of the Claw Motor, Arm Motor, or the Drive Motors, change the ClawMotorVelocity, the ArmMotorVelocity, or the MotorVelocity variables respectively. You can find them at the top of the "when started" block. The ClawMotorVelocity and ArmMotorVelocity variables accept valuesfrom 0 - 100 and the MotorVelocity variable accepts values from 0-1 
+Also, if you would like to change the velocity of the Claw Motor, Arm Motor, or the Drive Motors, change the ClawMotorVelocity, the ArmMotorVelocity, or the MotorVelocity variables respectively. You can find them at the top of the "when started" block. The ClawMotorVelocity and ArmMotorVelocity variables accept values from 0 - 100 and the MotorVelocity variable accepts values from 0-1 
